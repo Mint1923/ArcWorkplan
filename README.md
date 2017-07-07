@@ -1,0 +1,1 @@
+Arc has been lagging out alot and i mint have been experimening on ways to make it work, to keep the team going and i found the perfect way. I will be making short work plans and once done ill be making a new one.
