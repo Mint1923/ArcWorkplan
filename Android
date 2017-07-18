@@ -4,21 +4,35 @@
 
 1. Jake(lead)
 2. Sofiene
-3.Eyezik
-4. Shivam 
+3. Shivam 
+4. Victor
+5.Zahid
+
+Leads:
+1. jake
+
 
 Team 1: 
 a) Jake 
 b) Sofiene
 
 Team 2:
-a) Eyezik
-b) Shivam
+a) Shivam
+b) Zahid
+c) Victor
+------------------------
+[Task 1]
+(05/03/2017)
+Create login , signup and basic interior.
+Staus: Done.
+-----------------------
+[Task 2]
+(07/18/2017 // 11:43): 
+Team 1: Create news feed for Arc. 
+Status: In dev
 
-Task 1: 
-Team 1: Create news feed for Arc 
-
-Team 2: Create user profile for Arc
-
-[UI will be provided]
+Team 2: Create user profile for Arc.
+Status: in dev
+[Backend will be done by Xany and Justin.]
+----------------------
 <!--End of Android dev-->
